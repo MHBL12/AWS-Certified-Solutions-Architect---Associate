@@ -1,1 +1,5 @@
 
+This project provides a secure, highly available, highly responsive and timely available solution to query 
+high-resolution weather forecast data provided by the UK Met Office. 
+Sample data set and information is available here: https://aws.amazon.com/public-datasets/mogreps/
+The files are available in netCDF format every few minutes with 20-30 MBs of data.
